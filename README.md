@@ -1,6 +1,9 @@
 # SwipeButton
 
+A swipe button for SwiftUI.
+
 ## Usage
+
 
 ```swift
 struct SwipeButtonView_Previews: PreviewProvider {
@@ -34,3 +37,7 @@ struct SwipeButtonView_Previews: PreviewProvider {
     }
 }
 ```
+
+## Screenshot
+
+<img src="https://github.com/rushairer/SwipeButton/raw/screenshot/screenshot.gif"/>
